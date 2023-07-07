@@ -1,15 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Chelsea+Market&display=swap');
 
-body {
+:root {
+    background-color: papayawhip
+}
+
+* {
+    box-sizing: border-box;
     margin: 0;
+    padding: 0;
+
+    /* Brian Design via YouTube to help with rem sizing*/
+    font-size: 62.5%;
     font-family: 'Belanosima', sans-serif;
 }
 
-#logo {
-    font-family: 'Chelsea Market', sans-serif;
-    font-size: 50px;
-    width: 100%;
 
+#logo {
+    padding: 1rem;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,9 +27,13 @@ body {
 
 img {
     border: 2px black solid;
+    max-height: 100px;
+    max-width: 100px;
 }
 
-h2 {
+h1 {
+    font-family: 'Chelsea Market', sans-serif;
+    font-size: 5.4rem;
     border: 2px black solid;
     display: flex;
     align-items: center;

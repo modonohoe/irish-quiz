@@ -1,1 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Chelsea+Market&display=swap');
+
+#logo {
+ font-family: 'Chelsea Market', sans-serif;
+ font-size: xx-large;
+ width: 100vw;
+ display: flex; 
+}

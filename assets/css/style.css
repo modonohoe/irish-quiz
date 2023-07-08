@@ -36,8 +36,8 @@ h1 {
 }
 
 #game-description {
-    font: 3.2rem 'Belanosima',sans-serif;
-    max-width: 580px; 
+    font: 3.2rem 'Belanosima', sans-serif;
+    max-width: 580px;
     border-radius: 20px;
     background-color: thistle;
 }

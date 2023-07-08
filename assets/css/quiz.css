@@ -13,13 +13,23 @@
 }
 
 .update-item>p {
-    font: 3rem 'Chelsea Market', sans-serif;
+    font: 2.5rem 'Chelsea Market', sans-serif;
     margin: 0;
 }
 
 #score {}
 
-#progress-text {}
+/* Code derived from Brian Design */
+#progressText {}
+
+#progressBar {
+    width: 80%;
+    height: 2rem;
+    border: 0.3rem indigo solid;
+    background-color: rgb(145, 255, 145);
+    border-radius: 50px;
+    overflow: hidden;
+}
 
 /* music box */
 #music {

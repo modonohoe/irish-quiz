@@ -10,8 +10,7 @@
     padding: 0;
 
     /* Brian Design via YouTube to help with rem sizing*/
-    font-size: 62.5%;
-    font-family: 'Belanosima', sans-serif;
+    font: 62.5% 'Belanosima', sans-serif;
 }
 
 
@@ -33,14 +32,12 @@
 
 h1 {
     padding-top: 1rem;
-    font-family: 'Chelsea Market', sans-serif;
-    font-size: 5.4rem;
+    font: 5.4rem 'Chelsea Market', sans-serif;
 }
 
 #game-description {
-    font-size: 3.2rem;
-    max-width: 600px;
-    font-family: 'Belanosima', sans-serif;
+    font: 3.2rem 'Belanosima',sans-serif;
+    max-width: 580px; 
     border-radius: 20px;
     background-color: thistle;
 }
@@ -108,6 +105,6 @@ p i {
 }
 
 #luck-picture {
-    max-height: 450px;
+    max-width: 580px;
     border-radius: 20px;
 }

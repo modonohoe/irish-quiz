@@ -1,4 +1,83 @@
+/* styling for progress section */
 #player-updates {
-
+    border: 2px black solid;
+    width: 100%;
+    max-width: 580px;
+    margin: 0 1rem;
 }
 
+#player-updates>div {
+    width: 48%;
+    border: 2px red solid;
+    margin: 0;
+}
+
+.update-item>p {
+    font: 3rem 'Chelsea Market', sans-serif;
+    margin: 0;
+}
+
+#score {}
+
+#progress-text {}
+
+/* music box */
+#music {
+    margin: 0 1rem;
+    max-width: 580px;
+    width: 100%;
+    border: 2px black solid;
+}
+
+#music>p {
+    font: 3rem 'Chelsea Market', sans-serif;
+    float: right;
+}
+
+/* styling for question and answer container */
+
+#quiz-container {
+    font: 3.2rem 'Belanosima', sans-serif;
+    max-width: 580px;
+    display: flex;
+    border-radius: 20px;
+    background-color: thistle;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1rem;
+}
+
+#question {
+    display: flex;
+    width: 100%;
+}
+
+.option-container {
+    display: flex;
+    margin: 1rem;
+    width: 45%;
+    border-radius: 10px;
+    background-color: cornsilk;
+    font: 3rem 'Belanosima', sans-serif;
+}
+
+.option-text {
+    padding: 1rem;
+    width: 100%;
+}
+
+/* styling for mouse interactions with the options */
+
+.option-container:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 10px lime;
+}
+
+.correct {
+    background-color: lime;
+}
+
+.incorrect {
+    background-color: tomato;
+}

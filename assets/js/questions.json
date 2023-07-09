@@ -152,5 +152,133 @@
             "1901"
         ],
         "answer": "1801"
+    },
+    {
+        "type": "truefalse",
+        "question": "The film Irish Language film 'The Quiet Girl / An Cailín Ciúin' (2022) was nominated for an Oscar award for best international film.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "type": "truefalse",
+        "question": "More than 1 million people are learning Irish on the language app Duolingo (as of June 2021).",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "type": "truefalse",
+        "question": "Welsh is considered a 'sister' language of Irish.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "type": "truefalse",
+        "question": "Aside from ancient Greece and Rome, the earliest examples of European literature are in irish.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "type": "truefalse",
+        "question": "Irish doesn't have words for 'yes' or 'no.'",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "type": "truefalse",
+        "question": "Ireland is recognised as an officially bilingual country where ENGLISH is recognized as the first official language and IRISH as the second.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "type": "truefalse",
+        "question": "You can complete your driving test in Ireland through Irish.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "type": "truefalse",
+        "question": "Irish does NOT have masculine and feminine nouns like other languages do, such as French, Spanish, Italian etc.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "type": "truefalse",
+        "question": "It is possible to change your phone settings on the majority of mobile devices to display in the Irish language.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "type": "truefalse",
+        "question": "New words are no longer being added to the Irish Language",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "type": "truefalse",
+        "question": "Like English, the Irish language features double vowels e.g.'book, seek' etc",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "type": "truefalse",
+        "question": "Hollywood actor Cillian Murphy featured in an Irish-language short film.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "type": "freeform",
+        "question": "Type a number (digit) to represent the percentage of the Irish population who speak Irish as a first language",
+        "answer": "2"
+    },
+    {
+        "type": "freeform",
+        "question": "How many official distinctive dialects (distinct pronunciation, vocabulary etc) are there in the Irish language (enter a single digit)",
+        "answer": "3"
+    },
+    {
+        "type": "freeform",
+        "question": "The English language has 370 irregular verbs (Think ‘I go’ → ‘I went’!!) How many irregular verbs (as a number in digits) are there in the Irish language?",
+        "answer": "11"
+    },
+    {
+        "type": "freeform",
+        "question": "Type the number to represent the current rank for Irish in Duolingos most popular languages: (e.g. '1' = '1st')",
+        "answer": "16"
     }
 ]
